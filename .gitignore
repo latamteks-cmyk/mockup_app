@@ -1,0 +1,2 @@
+# Ignore Expo binary assets that are replaced by inline SVG data URIs
+mobile/assets/*.png
